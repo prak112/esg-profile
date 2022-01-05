@@ -7,3 +7,7 @@
   2. Social - impact on employee and their families lifestyles
   3. Governance  - impact of company policies governing the management of above two impacts 
 * Visualize Stock Market performance based on their KSIs
+
+* IF & Wherever possible, identify :
+- proxy data provided by services to companies
+- carbon offsets purchased by companies without improvements in company's Environmental impact
