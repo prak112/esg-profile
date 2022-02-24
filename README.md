@@ -44,5 +44,5 @@ I understand that there could be several possibilities to show the growth of an 
 </br>
 
 * _**IF & Wherever possible, identify :**_
-- proxy data provided by services to companies
-- carbon offsets purchased by companies without improvements in company's Environmental impact
+  - proxy data provided by services to companies
+  - carbon offsets purchased by companies without improvements in company's Environmental impact
