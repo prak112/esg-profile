@@ -33,16 +33,16 @@ I understand that there could be several possibilities to show the growth of an 
 
 # Approach 🏗️
 ## Sustainability profiling of Companies
-* Collect list of top 100 companies globally (_dataset_ 💾)
-* Collect Annual Sustainability reports of these companies
-* Process the reports to identify Key Sustainability Indicators (KSIs)
-* Categorize KSIs into industrially acknowledged impacts:
-  1. Environmental -  impact on land, air, water and ecosystems
-  2. Social - impact on employee and their familys' lifestyles
-  3. Governance  - impact of company policies governing the management of above two impacts 
-* Visualize Stock Market performance based on their KSIs 
-</br>
+* **MODULE 1** - Collect list of top 100 companies globally from [_dataset_](https://github.com/prak112/esg-profile/blob/7b320c46d47dca93c9b0abf453bcc234039b91c7/dataset) 💾
+* **MODULE 2**- Collect Annual Sustainability reports of these companies
+* **MODULE 3** - Process the reports to identify Key Sustainability Indicators (KSIs)
+* **MODULE 4** - Categorize KSIs into industrially acknowledged impacts:
+    - EnvironmentaL -  impact on land, air, water and ecosystems
+    - Social        - impact on employee and their familys' lifestyles
+    - Governance    - impact of company policies governing the management of above two impacts
 
-* _**IF & Wherever possible, identify :**_
-  - proxy data provided by services to companies
-  - carbon offsets purchased by companies without improvements in company's Environmental impact
+* **MODULE 5** - Visualize Stock Market performance based on their KSIs 
+
+* **MODULE 6** - _IF & Wherever possible_, Identify :
+  - **Proxy data** provided by services to companies
+  - **Outsourcing ESG activities**, such as purchasing carbon offsets without improvements in Company's Sustainability
