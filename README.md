@@ -6,11 +6,11 @@ _Blog posts which motivated me to compose the project are:_
 
 ## Background
 Sustainability standards refers to the ESG guidelines outlined by GRI. Organisations report their non-financial impacts according to the [GRI framework](https://www.globalreporting.org/how-to-use-the-gri-standards/gri-standards-english-language/) They could be briefed as follows:
-* Environmental - E 
+* Environmental - **E** 
     * building economic growth within environmental degradation limits, i.e., keeping water, soil, air & biodiversity (wildlife) clean
-* Social        - S
+* Social        - **S**
     * focusing on maintenance and prosperity of the employees and their communities, 
-* Governance    - G
+* Governance    - **G**
     * developing ethical standards of administration within the organisation
  
 
@@ -39,7 +39,7 @@ _Value creation & ESG Reporting by Organisations do CORRELATE with GRI standards
 # Approach 🏗️
 ## Sustainability profiling of Companies
 * **MODULE 1** - Collect list of top 100 companies globally from [dataset](https://github.com/prak112/esg-profile/blob/7b320c46d47dca93c9b0abf453bcc234039b91c7/dataset) 💾
-* **MODULE 2**- Collect Annual Sustainability reports of these companies
+* **MODULE 2** - Collect Annual Sustainability reports of these companies
 * **MODULE 3** - Process the reports to identify Key Sustainability Indicators (KSIs)
 * **MODULE 4** - Categorize KSIs into industrially acknowledged impacts:
     - EnvironmentaL -  impact on land, air, water and ecosystems
